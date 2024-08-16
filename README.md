@@ -1,1 +1,1 @@
-# Programming-in-C-A-Hands-on-Introduction-Specialization
+# Programming-in-CPP-A-Hands-on-Introduction-Specialization
